@@ -1,9 +1,13 @@
 AdGuard Homessa:
 
 DNS:
+
 https://dns.quad9.net/dns-query
+
 https://dns.cloudflare.com/dns-query
+
 https://dns.google/dns-query
+
 
 + DNSSEC ja Private reverse DNS päällä.
 
