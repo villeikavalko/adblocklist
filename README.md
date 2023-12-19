@@ -1,0 +1,47 @@
+AdGuard Homessa:
+
+DNS:
+https://dns.quad9.net/dns-query
+https://dns.cloudflare.com/dns-query
+https://dns.google/dns-query
+
++ DNSSEC ja Private reverse DNS päällä.
+
+
+DNS Blocklistat:
+
+https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
+
+https://adaway.org/hosts.txt
+
+https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV-AGH.txt
+
+https://someonewhocares.org/hosts/zero/hosts
+
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/GameConsoleAdblockList.txt
+
+https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
+
+https://raw.githubusercontent.com/finnish-easylist-addition/finnish-easylist-addition/master/Finland_adb.txt
+
+https://secure.fanboy.co.nz/fanboy-cookiemonster.txt
+
+https://abp.oisd.nl/
+
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareAdGuardHome.txt
+
+https://malware-filter.gitlab.io/malware-filter/phishing-filter-agh.txt
+
+https://www.i-dont-care-about-cookies.eu/abp/
+
+https://easylist.to/easylist/easyprivacy.txt
+
+https://easylist.to/easylist/fanboy-social.txt
+
+https://secure.fanboy.co.nz/fanboy-annoyance.txt
+
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/NorwegianList.txt
+
+
+
+Sit on viel serviceblockit esim. bilibili, douban, ok.ru, mail.ru, QQ, weibo, vk.com, wechat, zhihu
